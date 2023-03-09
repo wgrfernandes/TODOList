@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgrfernandes/TODOList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgrfernandes/TODOList/issues"
+  },
+  "homepage": "https://github.com/wgrfernandes/TODOList#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
